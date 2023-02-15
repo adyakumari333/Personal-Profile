@@ -101,12 +101,12 @@ a:hover{
 .web{
    
     width: 25%;
-    margin-right: 30px;
+    margin-right: 50px;
     float: left;
 }
 
 .coding{
-    margin-left: 30px;
+    margin-left: 50px;
     float: right;
     width: 25%;
 }
